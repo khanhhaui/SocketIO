@@ -18,14 +18,11 @@ export default class App extends React.Component {
     }
 	
 	clicked = () => {
-		
-		const dataObj = {
-			action: 'Hello World'
-		};
-		
-    this.socket.emit('JOIN_ROOM', dataObj);
-    console.log('data:'+ dataObj);
-	}
+        var dataObj = { phone: 'phone', token: 'test', request: { userId: '1', roomId: '1' } };
+        var datajson = JSON.stringify(dataObj)
+        this.socket.emit('JOIN_ROOM', datajson);
+        console.log('data is:' + datajson);
+    }
 
     render() {
         return(
