@@ -1,0 +1,23 @@
+dependencies: \
+  /ReactNative/SocketIO/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /ReactNative/SocketIO/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /ReactNative/SocketIO/node_modules/react-native/React/Base/RCTBridge.h \
+  /ReactNative/SocketIO/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /ReactNative/SocketIO/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /ReactNative/SocketIO/node_modules/react-native/React/Base/RCTDefines.h \
+  /ReactNative/SocketIO/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /ReactNative/SocketIO/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /ReactNative/SocketIO/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /ReactNative/SocketIO/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /ReactNative/SocketIO/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /ReactNative/SocketIO/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /ReactNative/SocketIO/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /ReactNative/SocketIO/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /ReactNative/SocketIO/node_modules/react-native/React/Base/RCTLog.h \
+  /ReactNative/SocketIO/node_modules/react-native/React/Base/RCTAssert.h \
+  /ReactNative/SocketIO/node_modules/react-native/React/Base/RCTUtils.h \
+  /ReactNative/SocketIO/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /ReactNative/SocketIO/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /ReactNative/SocketIO/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /ReactNative/SocketIO/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /ReactNative/SocketIO/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
